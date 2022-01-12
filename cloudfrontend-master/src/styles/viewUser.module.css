@@ -1,0 +1,17 @@
+.userBanner {
+  background-color: #6c757d;
+  color: white;
+  padding: 15px 20px;
+  padding-bottom: 30px;
+}
+
+.imageHeight {
+  max-height: 100px;
+  margin-right: 10px;
+}
+
+.cardContainer {
+  text-align: center;
+  margin: 20px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,48 @@
+.signupContainer {
+  margin: 30px auto 15px;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px 15px;
+  margin-top: 20px;
+}
+
+.input {
+  width: 88%;
+}
+
+.submitContainer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.signUpButton {
+  background-color: lightgray;
+  font-weight: bold;
+  font-size: 0.9rem;
+  border: 1px solid gray;
+  padding: 10px 20px;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.select {
+  width: 90% !important;
+  background-color: white;
+}
+
+.errorMessage {
+  margin-top: 15px;
+  color: red;
+  padding: 10px 15px;
+  background-color: #ff000042;
+}
